@@ -1,0 +1,5 @@
+tsh
+commands/bin/*
+libs/bin/*
+commands/bin
+libs/bin
