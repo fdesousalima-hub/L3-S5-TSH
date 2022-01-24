@@ -1,14 +1,6 @@
 Inscructions de lancement du projet tsh - Groupe 12
 ===
 
-## Identifiants
-
-DEPREZ Hugo - 71802209 - @deprez
-
-MEBARKI Clement - 71800676 - @mebarkic
-
-DE SOUSA LIMA Fabio - 71802806 - @desousal
-
 ## Compilation et exécution
 
 #### Docker
